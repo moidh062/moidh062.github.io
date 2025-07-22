@@ -4,14 +4,13 @@ general_email: moidulhasan1821@gmail.com
 academic_email: 1918030@buet.ac.bd
 
 description: > # this means to ignore newlines until "baseurl:"
-  Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
-
+  BUET BME Graduate | Fall'26 MS/PhD Aspirant | Focused on Deep Learning, Medical Imaging, and Clinical Decision Support Systems
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 url: "https://moidh062.github.io" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
-github_username: moid062
+github_username: moidh062
 linkedin_username: moidh062
 facebook_username: moid062
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
