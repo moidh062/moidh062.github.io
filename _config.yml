@@ -1,14 +1,14 @@
 # Site settings
-title: Your name here
-general_email: your_general_email@gmail.com
-academic_email: your_academic_email@univ
+title: Moidul Hasan
+general_email: moidulhasan1821@gmail.com
+academic_email: 1918030@buet.ac.bd
 
 description: > # this means to ignore newlines until "baseurl:"
   Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
 
-baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 
-url: "https://ys1998.github.io" # the base hostname & protocol for your site
+url: "https://moidh062.github.io" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
 github_username: github_username
