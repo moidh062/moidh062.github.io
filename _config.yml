@@ -4,7 +4,7 @@ general_email: moidulhasan1821@gmail.com
 academic_email: 1918030@buet.ac.bd
 
 description: > # this means to ignore newlines until "baseurl:"
-  BUET BME Graduate | Fall'26 MS/PhD Aspirant | Focused on Deep Learning, Medical Imaging, and Clinical Decision Support Systems
+  BUET BME Graduate | Fall'26 MS/PhD Aspirant | Deep Learning · Medical Imaging · Clinical Decision Support Systems
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 url: "https://moidh062.github.io" # the base hostname & protocol for your site
