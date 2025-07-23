@@ -21,7 +21,8 @@ Research Interests : <strong> deep learning, medical imaging & clinical decision
 		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
 	</li><br>
 </ul>
-
+-->
+<!--
 <h2>Research Projects</h2>
 <ul>
 	<li>
@@ -37,7 +38,8 @@ Research Interests : <strong> deep learning, medical imaging & clinical decision
 		<a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
 	</li><br>
 </ul>
-
+-->
+<!--
 <h2>Research Implementations</h2>
 <ul>
 	<li>
@@ -50,6 +52,7 @@ Research Interests : <strong> deep learning, medical imaging & clinical decision
 	</li><br>
 </ul>
 -->
+
 <h2>Undergraduate Thesis</h2>
 <ul>
   <li>
