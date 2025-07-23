@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/Moidul_Hasan.jpg" caption="" width=300 align="right" %}
+{% include image.html url="/images/Moidul_Hasan.jpg" caption="" width=310 align="right" %}
 
 I am a Biomedical Engineering graduate from the Bangladesh University of Engineering and Technology (BUET), with a focus on deep learning, medical imaging, and clinical decision support systems for low-resource settings. My goal is to develop interpretable and generalizable AI methodologies that seamlessly integrate into clinical practice. As an MS/PhD aspirant for Fall 2026, I aim to advance healthcare technology through innovative research.
 
