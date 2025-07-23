@@ -20,6 +20,11 @@ You can find my curriculum vitae/resume below.
   Bangladesh University of Engineering and Technology (BUET), Dhaka<br>
   <em>Feb 2020 – Mar 2025</em> | <strong>GPA:</strong> 3.49/4.00
 </p>
+<p>
+  <strong>HSC</strong><br>
+  Notre Dame College Dhaka, Dhaka<br>
+  <em>2017 – 2019</em> | <strong>GPA:</strong> 5.00/5.00
+</p>
 
 <h3>🔬 Research Experience</h3>
 <hr>
@@ -56,7 +61,7 @@ You can find my curriculum vitae/resume below.
 <h3>🎖️ Achievements</h3>
 <hr>
 <ul>
-  <li>1st Runner-up, University Innovation Hub Program (UIHP) (2024)</li>
+  <li>1st Runner-up, University Innovation Hub Program (UIHP) (2025)</li>
   <li>Winner, BME Fest 2.0 Healthcare Case Competition (2024)</li>
   <li>Best Enzyme Award, Bangladesh Biology Olympiad Dhaka South (2022)</li>
 </ul>
