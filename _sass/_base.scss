@@ -153,6 +153,7 @@ pre {
  * Wrapper
  */
 .wrapper {
+    padding-top: 80px;  // Adjust as needed to match your fixed header height
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
