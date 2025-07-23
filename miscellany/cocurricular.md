@@ -33,5 +33,5 @@ Edited and published the inaugural issue of <em>Bioluminescence</em>, featuring 
 <em>2023 – 2025</em><br>
   
 Managed new member onboarding and event logistics.<br>
-Organized <em>ChemBridge: Advancing Science Together</em>, the chapter’s annual flagship symposium connecting students and professionals in chemical sciences.Recieved <em>Best Volunteer Award 2025</em></p>
+Organized <em>ChemBridge: Advancing Science Together</em>, the chapter’s annual flagship symposium connecting students and professionals in chemical sciences. Recieved <em>Best Volunteer Award 2025</em></p>
 
