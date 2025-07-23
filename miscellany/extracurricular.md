@@ -3,7 +3,8 @@ layout: page
 title: Extracurricular Activities
 permalink: /engagements/extracurricular/
 ---
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<!-- UIHP Section: Image Right -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 40px;">
   <div style="flex: 1;">
     <h3>University Innovation Hub Program (UIHP) Cohort (2024)</h3>
     <hr>
@@ -13,12 +14,16 @@ permalink: /engagements/extracurricular/
       The project was recognized as <em>2nd Runner-up</em> among the cohort's finalists.
     </p>
   </div>
-  <div style="margin-left: 20px;">
-    <img src="/images/UIHP.jpg" alt="UIHP" style="max-width: 100px; height: auto;">
+  <div style="margin-left: 40px;">
+    <img src="/images/UIHP.jpg" alt="UIHP" style="max-width: 300px; height: auto;">
   </div>
 </div>
 
+<!-- Healthcare Case Competition Section: Image Left -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="margin-right: 40px;">
+    <img src="/images/HealthCare_Case_Comp.jpg" alt="Healthcare Case Competition" style="max-width: 300px; height: auto;">
+  </div>
   <div style="flex: 1;">
     <h3>Healthcare Case Competition – BME Fest 2024</h3>
     <hr>
@@ -27,7 +32,5 @@ permalink: /engagements/extracurricular/
       Our winning proposal focused on developing an <em>automated emergency messaging service</em> tailored for <strong>pregnant women in rural areas</strong>, especially those who are <strong>illiterate or semi-literate</strong>, aiming to improve maternal health outcomes through timely communication and support.
     </p>
   </div>
-  <div style="margin-left: 20px;">
-    <img src="/images/HealthCare_Case_Comp.jpg" alt="Healthcare Case Competition" style="max-width: 100px; height: auto;">
-  </div>
 </div>
+
