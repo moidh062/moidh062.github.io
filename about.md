@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/Moidul_Hasan.jpg" caption="" width=300 align="right" %}
+<img src="/images/Moidul_Hasan.jpg" alt="Moidul Hasan" width="300" style="float: right; margin-left: 20px; border-radius: 10px;" />
 
 <p>
   I am a <strong>Biomedical Engineering graduate</strong> from the <strong>Bangladesh University of Engineering and Technology (BUET)</strong>, with a focus on <strong>deep learning</strong>, <strong>medical imaging</strong>, and <strong>clinical decision support systems</strong> for low-resource settings. My goal is to develop <strong>interpretable and generalizable AI methodologies</strong> that seamlessly integrate into clinical practice. As an <strong>MS/PhD aspirant for Fall 2026</strong>, I aim to advance healthcare technology through innovative research.
