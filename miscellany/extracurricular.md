@@ -14,7 +14,7 @@ permalink: /engagements/extracurricular/
     </p>
   </div>
   <div style="margin-left: 20px;">
-    <img src="/images/Pakhi_Logo.png" alt="Pakhi Logo" style="max-width: 100px; height: auto;">
+    <img src="/images/UIHP.jpg" alt="UIHP" style="max-width: 100px; height: auto;">
   </div>
 </div>
 
@@ -28,6 +28,6 @@ permalink: /engagements/extracurricular/
     </p>
   </div>
   <div style="margin-left: 20px;">
-    <img src="/images/healthcare_case_logo.png" alt="Healthcare Case Competition" style="max-width: 100px; height: auto;">
+    <img src="/images/HealthCare_Case_Comp.jpg" alt="Healthcare Case Competition" style="max-width: 100px; height: auto;">
   </div>
 </div>
