@@ -17,3 +17,17 @@ permalink: /engagements/extracurricular/
     <img src="/images/Pakhi_Logo.png" alt="Pakhi Logo" style="max-width: 100px; height: auto;">
   </div>
 </div>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1;">
+    <h3>Healthcare Case Competition – BME Fest 2024</h3>
+    <hr>
+    <p>
+      Led <strong>Team Safe Birth Alliance</strong> to victory in the Healthcare Case Competition organized during <strong>BME Fest 2024</strong>. 
+      Our winning proposal focused on developing an <em>automated emergency messaging service</em> tailored for <strong>pregnant women in rural areas</strong>, especially those who are <strong>illiterate or semi-literate</strong>, aiming to improve maternal health outcomes through timely communication and support.
+    </p>
+  </div>
+  <div style="margin-left: 20px;">
+    <img src="/images/healthcare_case_logo.png" alt="Healthcare Case Competition" style="max-width: 100px; height: auto;">
+  </div>
+</div>
