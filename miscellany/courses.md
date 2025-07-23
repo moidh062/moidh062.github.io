@@ -1,30 +1,97 @@
 ---
 layout: page
-title: Key Courses Undertaken
+title: Courses Undertaken
 permalink: /engagements/courses/
 ---
 
-<h2>At &lt;your university name&gt;</h2>
+<h2>At Biomedical Engineering, BUET</h2>
 
-<h3>Department 1</h3>
+<h3>Biomedical Engineering (Theory)</h3>
+<a href="">BME 101</a>: <b>Introduction to Biomedical Engineering</b>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 103</a>: Introduction to Living Cells and Human Anatomy 
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 201</a>: Biomechanics
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 203</a>: <b>Human Physiology</b>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 205</a>: Biofluid Mechanics and Heat Transfer
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 301</a>: Bioelectricity
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 303</a>: <b>Biomedical Instrumentation and Measurements</b>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 305</a>: <b>Physiological Control Systems</b>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 307</a>: Biomedical Transport Fundamentals
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 311</a>: <b>Biomedical Signals and Systems</b>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 401</a>: Molecular Biology for Engineers
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 403</a>: <b>Medical Imaging</b>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 405</a>: <b>Healthcare System Management</b>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 407</a>: <b>Quantitative Physiology</b>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 437</a>: <b>Engineering Optics for Medical Application</b>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 445</a>: <b>Biomedical Signal Processing</b>
 
-<a href="">CS335</a>: Arificial Intelligence and Machine Learning* <sup>&dagger;</sup>
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS726</a>: Advanced Machine Learning*
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS302</a>: Implementation of Programming Languages* <sup>&dagger;</sup>
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS310</a>: Automata Theory*
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS663</a>: Fundamentals of Digital Image Processing
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS475</a>: Computer Graphics
+<h3>Biomedical Engineering (Sessionals)</h3>
+<a href="">BME 200</a>: Computer Aided Design in Biomedical Engineering
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 204</a>: Human Physiology Sessional
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 206</a>: Biofluid Mechanics and Heat Transfer Sessional
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 300</a>: Biomedical Engineering Design - I
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 304</a>: <b>Biomedical Instrumentation and Measurements Sessional</b>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 310</a>: Communicating Protocols for Biomedical Instruments
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 350</a>: Biomedical Engineering Design - II
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 400</a>: <b>Project and Thesis</b>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 404</a>: <b>Medical Imaging Sessional</b>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">BME 306</a>: Physiological Control Systems Sessional
 
-<h3>Department 2</h3>
-<a href="">SI404</a>: Applied Stochastic Processes*
-<b>&nbsp;&middot;&nbsp;</b> <a href="">SI402</a>: Statistical Inference
-<b>&nbsp;&middot;&nbsp;</b> <a href="">SI417</a>: Introduction to Probability Theory
+<h3>Electrical and Electronic Engineering (Theory)</h3>
+<a href="">EEE 171</a>: Electrical Circuits
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EEE 273</a>: Basic Electronic Devices and Circuits
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EEE 375</a>: Digital Signal Processing
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EEE 377</a>: Random Signals and Processes
 
-<h3>Department 3</h3>
-<a href="">MA214</a>: Introduction to Numerical Analysis*
-<b>&nbsp;&middot;&nbsp;</b> <a href="">MA106</a>: Linear Algebra
-<b>&nbsp;&middot;&nbsp;</b> <a href="">MA108</a>: Differential Equations
-<b>&nbsp;&middot;&nbsp;</b> <a href="">MA105</a>: Calculus
+<h3>Electrical and Electronic Engineering (Sessionals)</h3>
+<a href="">EEE 172</a>: Electrical Circuits Sessional
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EEE 274</a>: Basic Electronic Devices and Circuits Sessional
+<b>&nbsp;&middot;&nbsp;</b> <a href="">EEE 376</a>: Digital Signal Processing Sessional
+
+<h3>Computer Science and Engineering (Theory)</h3>
+<a href="">CSE 281</a>: <b>Computer Programming</b>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">CSE 283</a>: Digital Techniques
+<b>&nbsp;&middot;&nbsp;</b> <a href="">CSE 493</a>: Medical Informatics
+<b>&nbsp;&middot;&nbsp;</b> <a href="">CSE 495</a>: Bioinformatics
+
+<h3>Computer Science and Engineering (Sessionals)</h3>
+<a href="">CSE 282</a>: Computer Programming Sessional
+<b>&nbsp;&middot;&nbsp;</b> <a href="">CSE 284</a>: Digital Techniques Sessional
+
+<h3>Mathematics (Theory)</h3>
+<a href="">Math 113</a>: Calculus
+<b>&nbsp;&middot;&nbsp;</b> <a href="">Math 213</a>: <b>Differential Equations</b>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">Math 215</a>: <b>Linear Algebra</b>
+<b>&nbsp;&middot;&nbsp;</b> <a href="">Math 313</a>: <b>Probability & Statistics</b>
+
+<h3>Physics (Theory)</h3>
+<a href="">Phy 123</a>: Waves and Oscillations, Optics and Thermal Physics
+<b>&nbsp;&middot;&nbsp;</b> <a href="">Phy 167</a>: Electricity and Magnetism, Modern Physics and Mechanics
+
+<h3>Physics (Sessionals)</h3>
+<a href="">Phy 102</a>: Physics Sessional - I
+<b>&nbsp;&middot;&nbsp;</b> <a href="">Phy 152</a>: Physics Sessional - II
+
+<h3>Chemistry (Theory)</h3>
+<a href="">Chem 125</a>: Organic and Inorganic Chemistry
+<b>&nbsp;&middot;&nbsp;</b> <a href="">Chem 127</a>: Physical Chemistry
+
+<h3>Chemistry (Sessionals)</h3>
+<a href="">Chem 126</a>: Organic and Inorganic Analysis Sessional
+<b>&nbsp;&middot;&nbsp;</b> <a href="">Chem 128</a>: Physical Chemistry Sessional
+
+<h3>Humanities and Social Sciences (Theory)</h3>
+<a href="">Hum 187</a>: English
+<b>&nbsp;&middot;&nbsp;</b> <a href="">Hum 415</a>: Professional Ethics
+
+<h3>Humanities and Social Sciences (Sessionals)</h3>
+<a href="">Hum 104</a>: English Skills Sessional
+
+<h3>Materials and Metallurgical Engineering (Theory)</h3>
+<a href="">MME 297</a>: Structure and Properties of Biomaterials
+
+<h3>Materials and Metallurgical Engineering (Sessionals)</h3>
+<a href="">MME 298</a>: Structure and Properties of Biomaterials Sessional
+
 
 
 <h2>MOOC</h2>
