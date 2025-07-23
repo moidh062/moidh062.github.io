@@ -20,5 +20,7 @@
       subhref: "/engagements/courses/"
     - subtitle: "Co-curricular Activities"
       subhref: "/engagements/cocurricular/"
+    - subtitle: "Extracurricular Activities"
+      subhref: "/engagements/extracurricular/"
     # - subtitle: "Travel"
     #   subhref: "/miscellany/travel/"
