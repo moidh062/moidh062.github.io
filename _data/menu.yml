@@ -13,12 +13,12 @@
 - title: "About"
   href: "/about/"
 
-- title: "Miscellany"
-  href: "/miscellany/"
+- title: "Engagements"
+  href: "/engagements/"
   subcategories:
     - subtitle: "Courses Undertaken"
-      subhref: "/miscellany/courses/"
+      subhref: "/engagements/courses/"
     - subtitle: "Extracurriculars"
-      subhref: "/miscellany/extracurricular/"
+      subhref: "/engagements/extracurricular/"
     # - subtitle: "Travel"
     #   subhref: "/miscellany/travel/"
