@@ -18,7 +18,7 @@
   subcategories:
     - subtitle: "Courses Undertaken"
       subhref: "/engagements/courses/"
-    - subtitle: "Extracurriculars"
-      subhref: "/engagements/extracurricular/"
+    - subtitle: "Co-curricular Activities"
+      subhref: "/engagements/cocurricular/"
     # - subtitle: "Travel"
     #   subhref: "/miscellany/travel/"
