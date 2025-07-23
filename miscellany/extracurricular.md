@@ -14,6 +14,6 @@ permalink: /engagements/extracurricular/
     </p>
   </div>
   <div style="margin-left: 20px;">
-    <img src="PATH_TO_LOGO/uihp_logo.png" alt="Pakhi Logo" style="max-width: 100px; height: auto;">
+    <img src="images/Pakhi Logo.png" alt="Pakhi Logo" style="max-width: 100px; height: auto;">
   </div>
 </div>
