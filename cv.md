@@ -11,9 +11,8 @@ You can find my curriculum vitae/resume below.
 <!-- 	<li><a href="short_cv.pdf">Short resume</a> (1 page)</li> -->
 </ul>
 
-<h2>Highlights</h2>
+<h2>CV Highlights</h2>
 
-<hr>
 <h3>🎓 Education</h3>
 <hr>
 <p>
