@@ -47,7 +47,6 @@ permalink: /engagements/courses/
 <b>&nbsp;&middot;&nbsp;</b> <a href="">EEE 375</a>: Digital Signal Processing
 <b>&nbsp;&middot;&nbsp;</b> <a href="">EEE 377</a>: Random Signals and Processes
 
-<h3>Electrical and Electronic Engineering</h3>
 <h4>Sessionals</h4>
 <a href="">EEE 172</a>: Electrical Circuits Sessional
 <b>&nbsp;&middot;&nbsp;</b> <a href="">EEE 274</a>: Basic Electronic Devices and Circuits Sessional
@@ -60,7 +59,6 @@ permalink: /engagements/courses/
 <b>&nbsp;&middot;&nbsp;</b> <a href="">CSE 391</a>: Embedded Systems and Interfacing
 <b>&nbsp;&middot;&nbsp;</b> <a href="">CSE 495</a>: Bioinformatics
 
-<h3>Computer Science and Engineering</h3>
 <h4>Sessionals</h4>
 <a href="">CSE 282</a>: Computer Programming Sessional
 <b>&nbsp;&middot;&nbsp;</b> <a href="">CSE 392</a>:Embedded Systems and Interfacing Sessional 
@@ -78,7 +76,6 @@ permalink: /engagements/courses/
 <a href="">Phy 123</a>: Waves and Oscillations, Optics and Thermal Physics
 <b>&nbsp;&middot;&nbsp;</b> <a href="">Phy 167</a>: Electricity and Magnetism, Modern Physics and Mechanics
 
-<h3>Physics</h3>
 <h4>Sessionals</h4>
 <a href="">Phy 102</a>: Physics Sessional - I
 <b>&nbsp;&middot;&nbsp;</b> <a href="">Phy 152</a>: Physics Sessional - II
@@ -88,7 +85,6 @@ permalink: /engagements/courses/
 <a href="">Chem 125</a>: Organic and Inorganic Chemistry
 <b>&nbsp;&middot;&nbsp;</b> <a href="">Chem 127</a>: Physical Chemistry
 
-<h3>Chemistry</h3>
 <h4>Sessionals</h4>
 <a href="">Chem 126</a>: Organic and Inorganic Analysis Sessional
 <b>&nbsp;&middot;&nbsp;</b> <a href="">Chem 128</a>: Physical Chemistry Sessional
@@ -98,7 +94,6 @@ permalink: /engagements/courses/
 <a href="">Hum 187</a>: English
 <b>&nbsp;&middot;&nbsp;</b> <a href="">Hum 415</a>: Professional Ethics
 
-<h3>Humanities and Social Sciences</h3>
 <h4>Sessionals</h4>
 <a href="">Hum 104</a>: English Skills Sessional
 
@@ -106,7 +101,6 @@ permalink: /engagements/courses/
 <h4>Theory</h4>
 <a href="">MME 297</a>: Structure and Properties of Biomaterials
 
-<h3>Materials and Metallurgical Engineering</h3>
 <h4>Sessionals</h4>
 <a href="">MME 298</a>: Structure and Properties of Biomaterials Sessional
 
