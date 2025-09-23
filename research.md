@@ -28,6 +28,7 @@ title: Research
     Department of Biomedical Engineering, BUET | Oct 2023 – Mar 2025<br>
     <i>Supervisor: Prof. Dr. Taufiq Hasan</i><br>
     Localized TB regions with weakly supervised explainable AI. Improved model interpretability with knowledge distillation. Enhanced cross-dataset generalization.<br>
-    <a href="https://github.com/moidulhasan/TB-CXR-Thesis"><div class="color-button">Learn More</div></a>
+    <a href="https://drive.google.com/file/d/1h3u7AX5Hoz-9Dh-UMSIuIszHvN-n7Nvu/view?usp=drive_link"><div class="color-button">Thesis Book</div></a>
+    <a href="https://docs.google.com/presentation/d/1a8J06dcnVHVKOn3jg1nvNl_fxfNzxV92/edit?usp=drive_link&ouid=115371044092146593410&rtpof=true&sd=true"><div class="color-button">Thesis Presentation</div></a>
   </li>
 </ul>
