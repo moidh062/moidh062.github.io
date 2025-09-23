@@ -6,7 +6,7 @@ permalink: /cv/
 
 You can find my curriculum vitae/resume below.
 <ul>
-	<li><a href="cv/CV_of_Moidul_Hasan.pdf">CV of Moidul Hasan</a> (2 pages)</li>
+ 	<li><a href="https://moidh062.github.io/cv/CV_of_Moidul_Hasan.pdf" target="_blank">CV of Moidul Hasan</a> (2 pages)</li>
 </ul>
 
 <h2>CV Highlights</h2>
