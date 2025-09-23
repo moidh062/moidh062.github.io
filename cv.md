@@ -106,7 +106,7 @@ You can find my curriculum vitae/resume below.
 <h3>📝 Publications & Presentations</h3>
 <hr>
 <p>
-  <strong>Journal Paper:</strong> Shawkat, M.A., Hasan, M., & Hasan, T., "Weakly Supervised Tuberculosis Localization in Chest X-rays through Knowledge Distillation" (Manuscript in Preparation)<br>
-  <strong>Poster Presentation:</strong> Shawkat, M.A., Hasan, M., & Hasan, T., "Knowledge Distillation Improves Tuberculosis Feature Learning in CNNs", BEAR Summit & Bangladesh National Semiconductor Symposium, 2025
+  <strong>Journal Paper:</strong> Shawkat, M.A., <strong>Hasan, M.</strong>, & Hasan, T., "Weakly Supervised Tuberculosis Localization in Chest X-rays through Knowledge Distillation" (Manuscript in Preparation)<br>
+  <strong>Poster Presentation:</strong> Shawkat, M.A., <strong>Hasan, M.</strong>, & Hasan, T., "Knowledge Distillation Improves Tuberculosis Feature Learning in CNNs", BEAR Summit & Bangladesh National Semiconductor Symposium, 2025
 </p>
 
